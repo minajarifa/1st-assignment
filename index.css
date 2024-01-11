@@ -1,0 +1,209 @@
+ 
+.container{
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+  width: 1320px;
+flex-shrink: 0;
+display: block;
+padding-left: 800px;
+
+} 
+ /*--------------
+ header start
+ -----------------*/
+  header{
+   background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+   width: 1320px;
+height: 700px;
+flex-shrink: 0;
+background-repeat: no-repeat;
+  }
+  .head-para{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; 
+  }
+  .head-title{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+  }
+  
+ /**-----------------
+ header end
+ --------------------*/
+
+ /*main start*/
+ /*-----------
+ section1 start
+ ---------------*/
+ .section1{
+   width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+align-items: center;
+padding-bottom: 600px;
+ }
+h2{
+   padding-top: 50px;
+   color: #F00;
+  text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+h6{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+h3{
+  color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+/*----------------
+section1 done
+------------------*/
+/*---------------------
+section2 start
+---------------------*/
+.text-img{
+  color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+.section2{
+  background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 400px;
+}
+
+p{
+  color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+
+  }
+.Join{
+  color: #FFF;
+font-family: Merriweather;
+font-size: 30px
+font-weight: 800;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+/*------------------------
+section2 dane
+--------------------------*/
+
+/*----------------
+section3 start
+------------------*/
+.section3{
+  width: 1320px;
+height: 482px;
+flex-shrink: 0;
+background-color: antiquewhite;
+}
+.class3{ 
+
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+text-transform: capitalize;
+padding-top: 100px;
+border: white;
+}
+.word{
+   color: #F00;
+}
+button{
+  color: #FFF;
+  background-color: #F00;
+text-align: center;
+padding: 10px;
+}
+/*--------------
+section3 done
+-----------------*/
+
+/*section4 start */
+.section4{
+  width: 1600px;
+  height: 7335px;
+  background: #FFF;
+  display: flex;
+  padding-top: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 70px;
+}
+.lalu{
+  color: #F00;
+}
+.kalu{
+  color: black;
+  text-align: left;
+}
+.chai{
+  color: #242327;
+}
+#circle{
+  width: 463px;
+height: 463px;
+flex-shrink: 0;
+border-radius: 463px;
+border: 15px solid #F00;
+padding: 15px;
+}
+
+
+/* section4 done*/
+
+/* footer start*/
+.end{
+  width: 1600px;
+height: 509px;
+flex-shrink: 0;
+background: #070211;
+padding-top: 80px;
+padding-left: 30px;
+padding-right: 30px;
+}
+.en1 , .en3{
+  justify-content: space-between;
+  display: flex;
+  color: #FFF;
+ }
+ #apps{
+  align-items: center;
+ }
